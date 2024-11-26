@@ -41,7 +41,7 @@ A robust Spring Boot application for managing tasks and subtasks with JWT authen
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/kaswan001/task-management
 ```
 
 2. Navigate to the project directory:
@@ -154,4 +154,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact the development team.
+For support, please open an issue in the GitHub repository.
